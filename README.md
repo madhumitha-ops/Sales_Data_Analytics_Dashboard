@@ -1,25 +1,16 @@
-# Sales Data Analytics Dashboard
 
-## Project Overview
-This project is built using MySQL and SQL for sales data analysis.
+## Project Objectives
 
-## Tools Used
-- MySQL
-- SQL
-- GitHub
+- Store customer data
+- Store product data
+- Store sales data
+- Perform sales analysis using SQL
+- Practice DBMS concepts
 
 ## Features
-- Customer Data Management
-- Product Data Management
-- Sales Analysis
-- SQL Queries
 
-## SQL Concepts Used
-- CREATE DATABASE
-- CREATE TABLE
-- INSERT INTO
-- PRIMARY KEY
-- FOREIGN KEY
-
-## Author
-Madhumitha
+- Customer Management
+- Product Management
+- Sales Tracking
+- Monthly Sales Analysis
+- SQL Reporting
